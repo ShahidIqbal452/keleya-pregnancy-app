@@ -31,13 +31,13 @@ const SignUpName = () => {
 
   useEffect(() => {
     const keyboardDidShowListener = Keyboard.addListener(
-      'keyboardWillShow',
+      'keyboardDidShow',
       () => {
         setScrollOffset(-hp(20)); // or some other action
       },
     );
     const keyboardDidHideListener = Keyboard.addListener(
-      'keyboardWillHide',
+      'keyboardDidHide',
       () => {
         setScrollOffset(0); // or some other action
       },

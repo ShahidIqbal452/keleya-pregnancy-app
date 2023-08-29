@@ -43,13 +43,13 @@ const SignInEmail = () => {
 
   useEffect(() => {
     const keyboardDidShowListener = Keyboard.addListener(
-      'keyboardWillShow',
+      'keyboardDidShow',
       () => {
         setScrollOffset(-hp(3)); // or some other action
       },
     );
     const keyboardDidHideListener = Keyboard.addListener(
-      'keyboardWillHide',
+      'keyboardDidHide',
       () => {
         setScrollOffset(0); // or some other action
       },
