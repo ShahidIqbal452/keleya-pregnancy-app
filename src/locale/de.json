@@ -1,0 +1,41 @@
+{
+  "intro": {
+    "title": "Für eine fitte und entspannte \nSchwangerschaft",
+    "getStarted": "Loslegen",
+    "or": "Oder anmelden"
+  },
+  "signup": {
+    "title": "Geben Sie unten Ihre Daten ein, um ein\nKonto einzurichten",
+    "fieldPassword": "Geben Sie ein Passwort ein",
+    "privacy": "Ich habe die Datenschutzerklärung gelesen",
+    "terms": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen und Keleyas Ratschläge",
+    "createAcc": "Benutzerkonto erstellen"
+  },
+  "login": {
+    "title": "Willkommen zurück!",
+    "forgotPass": "Hast du dein Passwort vergessen?",
+    "btnTitle": "Anmeldung"
+  },
+  "name": {
+    "title": "Schön, dass du hier bist! Das\nWichtigste zuerst: Wie sollen wir\nSie nennen?",
+    "btnTitle": "Weitermachen"
+  },
+  "date": {
+    "title": "Wann erwartest du dein Kind, "
+  },
+  "workout": {
+    "title": "Wie oft pro Woche möchten\nSie aktiv sein?",
+    "once": "wöchentlich",
+    "two": "2 mal in der Woche",
+    "three": "3 mal in der Woche",
+    "four": "4 mal in der Woche",
+    "five": "5 mal in der Woche",
+    "six": "6 mal in der Woche",
+    "seven": "7 mal in der Woche"
+  },
+  "success": {
+    "title": "Erhalten Sie Benachrichtigungen\num Ihre Motivation zu steigern",
+    "skip": "Überspringen",
+    "btnTitle": "Benachrichtigungen zulassen"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "intro": {
+    "title": "For a fit and relaxed \n pregnancy",
+    "getStarted": "Get started",
+    "or": "Or login"
+  },
+  "signup": {
+    "title": "Add your details below to set\nup and account",
+    "fieldPassword": "Enter a password",
+    "privacy": "I ve've read the privacy policy",
+    "terms": "I accept the terms & conditions and Keleya's advice",
+    "createAcc": "Create account"
+  },
+  "login": {
+    "title": "Welcome back!",
+    "forgotPass": "Have you forgotten your password?",
+    "btnTitle": "Log In"
+  },
+  "name": {
+    "title": "It's great that you're here! First\nthings first, what should we\ncall you?",
+    "btnTitle": "Continue"
+  },
+  "date": {
+    "title": "When is your baby due, "
+  },
+  "workout": {
+    "title": "How many time a week do\nyou want to be active?",
+    "once": "once a week",
+    "two": "2 times a week",
+    "three": "3 times a week",
+    "four": "4 times a week",
+    "five": "5 times a week",
+    "six": "6 times a week",
+    "seven": "7 times a week"
+  },
+  "success": {
+    "title": "Get notifications to boost\nyour motivation",
+    "skip": "Skip",
+    "btnTitle": "Allow notifications"
+  }
+}
