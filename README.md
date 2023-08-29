@@ -4,7 +4,8 @@ This is a demo project made for Keleya pregnancy app.
 
 All front end onboarding screens are completed. Just pull the latest code,
 
-Run npm install
+Run <br> 
+npm install <br> 
 npx pod-install
 
 and then start running project on any platform you desire.
